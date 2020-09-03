@@ -1,1 +1,1 @@
-# daily_rituals_week1_day1
+In these 2 Excercises, We are practising JS String<-> Int conversions and JS basic operations
